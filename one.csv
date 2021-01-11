@@ -1,0 +1,520 @@
+name;year;city;region;cuisine;stars;price;stars
+Kilian Stuba;2019;Kleinwalsertal;Austria;Creative;$$$$$;very high;1
+Pfefferschiff;2019;Hallwang;Austria;Classic cuisine;$$$$$;very high;1
+Esszimmer;2019;Salzburg;Austria;Creative;$$$$$;very high;1
+Carpe Diem;2019;Salzburg;Austria;Market cuisine;$$$$$;very high;1
+Edvard;2019;Wien;Austria;Modern cuisine;$$$$;high;1
+Das Loft;2019;Wien;Austria;Modern cuisine;$$$$$;very high;1
+Pramerl & the Wolf;2019;Wien;Austria;Creative;$$$$$;very high;1
+Walter Bauer;2019;Wien;Austria;Classic cuisine;$$$$$;very high;1
+SHIKI;2019;Wien;Austria;Japanese;$$$$$;very high;1
+Tian;2019;Wien;Austria;Vegetarian;$$$$$;very high;1
+aend;2019;Wien;Austria;Modern cuisine;$$$$$;very high;1
+Le Ciel by Toni Mörwald;2019;Wien;Austria;Classic cuisine;$$$$$;very high;1
+Chez TJ;2019;South San Francisco;California;Contemporary;$$$$;high;1
+Protégé;2019;South San Francisco;California;Contemporary;$$$;average;1
+Madera;2019;San Francisco;California;Contemporary;$$$;average;1
+The Village Pub;2019;San Francisco;California;Contemporary;$$$;average;1
+Plumed Horse;2019;South San Francisco;California;Contemporary;$$$$;high;1
+Wakuriya;2019;San Francisco;California;Japanese;$$$$;high;1
+Sushi Yoshizumi;2019;San Francisco;California;Japanese;$$$$;high;1
+Rasa;2019;San Francisco;California;Indian;$$;low;1
+Maum;2019;South San Francisco;California;Korean;$$$$;high;1
+Al's Place;2019;San Francisco;California;Californian;$$;low;1
+Aster;2019;San Francisco;California;Californian;$$$;average;1
+Omakase;2019;San Francisco;California;Japanese;$$$$;high;1
+Commonwealth;2019;San Francisco;California;Contemporary;$$;low;1
+Luce;2019;San Francisco;California;Contemporary;$$$;average;1
+Birdsong;2019;San Francisco;California;American;$$$$;high;1
+In Situ;2019;San Francisco;California;International;$$$$;high;1
+Mourad;2019;San Francisco;California;Moroccan;$$$;average;1
+Hashiri;2019;San Francisco;California;Japanese;$$$$;high;1
+Angler;2019;San Francisco;California;Contemporary;$$$$;high;1
+Rich Table;2019;San Francisco;California;Contemporary;$$$;average;1
+Kin Khao;2019;San Francisco;California;Thai;$$;low;1
+Michael Mina;2019;San Francisco;California;Contemporary;$$$$;high;1
+Sons & Daughters;2019;San Francisco;California;Contemporary;$$$$;high;1
+Mister Jiu's;2019;San Francisco;California;Chinese;$$$;average;1
+Nico;2019;San Francisco;California;Contemporary;$$$;average;1
+jū-ni;2019;San Francisco;California;Japanese;$$$$;high;1
+Keiko à Nob Hill;2019;San Francisco;California;Fusion;$$$$;high;1
+The Progress;2019;San Francisco;California;Californian;$$$;average;1
+State Bird Provisions;2019;San Francisco;California;American;$$;low;1
+Octavia;2019;San Francisco;California;Californian;$$$;average;1
+SPQR;2019;San Francisco;California;Italian;$$$;average;1
+Lord Stanley;2019;San Francisco;California;Californian;$$$;average;1
+Kinjo;2019;San Francisco;California;Japanese;$$$$;high;1
+Sorrel;2019;San Francisco;California;Californian;$$$;average;1
+Gary Danko;2019;San Francisco;California;Contemporary;$$$$;high;1
+Bar Crenn;2019;San Francisco;California;French;$$$;average;1
+Spruce;2019;San Francisco;California;Californian;$$$;average;1
+Wako;2019;San Francisco;California;Japanese;$$$$;high;1
+Madcap;2019;San Francisco;California;Contemporary;$$$$;high;1
+Aubergine;2019;Monterey;California;Contemporary;$$$$;high;1
+Kenzo;2019;San Francisco;California;Japanese;$$$$;high;1
+La Toque;2019;San Francisco;California;Contemporary;$$$$;high;1
+Bouchon;2019;San Francisco;California;French;$$$;average;1
+Auberge du Soleil;2019;San Francisco;California;Californian;$$$$;high;1
+Farmhouse Inn & Restaurant;2019;San Francisco;California;Californian;$$$$;high;1
+The Kitchen;2019;Sacramento;California;Contemporary;$$$$;high;1
+Madrona Manor;2019;San Francisco;California;Contemporary;$$$$;high;1
+Harbor House;2019;San Francisco;California;Californian;$$$$;high;1
+Shin Sushi;2019;Los Angeles;California;Japanese;$$$;average;1
+Rustic Canyon;2019;Los Angeles;California;Californian;$$$;average;1
+Dialogue;2019;Los Angeles;California;Contemporary;$$$$;high;1
+Kato;2019;Los Angeles;California;Asian;$$$;average;1
+CUT;2019;Los Angeles;California;Steakhouse;$$$$;high;1
+Nozawa Bar;2019;Los Angeles;California;Japanese;$$$$;high;1
+Shunji;2019;Los Angeles;California;Japanese;$$$$;high;1
+Maude;2019;Los Angeles;California;Contemporary;$$$$;high;1
+Mori Sushi;2019;Los Angeles;California;Japanese;$$$$;high;1
+Trois Mec;2019;Los Angeles;California;Contemporary;$$$$;high;1
+Osteria Mozza;2019;Los Angeles;California;Italian;$$$;average;1
+Kali;2019;Los Angeles;California;Californian;$$$;average;1
+Le Comptoir;2019;Los Angeles;California;Californian;$$$$;high;1
+Q Sushi;2019;Los Angeles;California;Japanese;$$$$;high;1
+Shibumi;2019;Los Angeles;California;Japanese;$$$$;high;1
+Hayato;2019;Los Angeles;California;Japanese;$$$$;high;1
+Bistro Na's;2019;Los Angeles;California;Chinese;$$;low;1
+Orsa & Winston;2019;Los Angeles;California;Fusion;$$$$;high;1
+Taco María;2019;Costa Mesa;California;Mexican;$$$;average;1
+Hana re;2019;Costa Mesa;California;Japanese;$$$$;high;1
+Addison;2019;San Diego;California;Contemporary;$$$$;high;1
+Parachute;2019;Chicago;Chicago;Fusion;$$;low;1
+Goosefoot;2019;Chicago;Chicago;Contemporary;$$$$;high;1
+Elizabeth;2019;Chicago;Chicago;Contemporary;$$$$;high;1
+EL Ideas;2019;Chicago;Chicago;Contemporary;$$$$;high;1
+Band of Bohemia;2019;Chicago;Chicago;Gastropub;$$$;average;1
+Schwa;2019;Chicago;Chicago;Contemporary;$$$$;high;1
+Temporis;2019;Chicago;Chicago;Contemporary;$$$$;high;1
+Entente;2019;Chicago;Chicago;Contemporary;$$$;average;1
+Elske;2019;Chicago;Chicago;Contemporary;$$$$;high;1
+Dusek's (Board & Beer);2019;Chicago;Chicago;Gastropub;$$;low;1
+Roister;2019;Chicago;Chicago;Contemporary;$$$;average;1
+Boka;2019;Chicago;Chicago;Contemporary;$$$;average;1
+Blackbird;2019;Chicago;Chicago;Contemporary;$$$;average;1
+Sepia;2019;Chicago;Chicago;American;$$$;average;1
+North Pond;2019;Chicago;Chicago;Contemporary;$$$;average;1
+Everest;2019;Chicago;Chicago;French;$$$$;high;1
+Topolobampo;2019;Chicago;Chicago;Mexican;$$$$;high;1
+Spiaggia;2019;Chicago;Chicago;Italian;$$$$;high;1
+Monte;2019;Rovinj;Croatia;Creative;$$$$$;very high;1
+Draga di Lovrana;2019;Lovran;Croatia;Modern cuisine;$$$$$;very high;1
+Noel;2019;Zagreb;Croatia;Modern cuisine;$$$$$;very high;1
+Pelegrini;2019;Šibenik;Croatia;Modern cuisine;$$$$$;very high;1
+360º;2019;Dubrovnik;Croatia;Modern cuisine;$$$$$;very high;1
+Field;2019;Praha;Czech Republic;Modern cuisine;$$$$$;very high;1
+La Degustation Bohême Bourgeoise;2019;Praha;Czech Republic;Modern cuisine;$$$$$;very high;1
+Gastromé;2019;Aarhus;Denmark;Modern cuisine;$$$;average;1
+Domestic;2019;Aarhus;Denmark;Modern cuisine;$$$;average;1
+Substans;2019;Aarhus;Denmark;Modern cuisine;$$$;average;1
+Frederikshøj;2019;Aarhus;Denmark;Creative;$$$$;high;1
+Me‚Mu;2019;Vejle;Denmark;Modern cuisine;$$$;average;1
+Ti Trin Ned;2019;Fredericia;Denmark;Modern cuisine;$$$;average;1
+Slotskøkkenet;2019;Hørve;Denmark;Creative;$$$$;high;1
+Søllerød Kro;2019;København;Denmark;Modern cuisine;$$;low;1
+Jordnær;2019;København;Denmark;Danish;$$$;average;1
+Relæ;2019;København;Denmark;Modern cuisine;$$;low;1
+Kiin Kiin;2019;København;Denmark;Thai;$$;low;1
+formel B;2019;København;Denmark;Modern cuisine;$$;low;1
+Kokkeriet;2019;København;Denmark;Modern cuisine;$$$;average;1
+Clou;2019;København;Denmark;Modern cuisine;$$$$;high;1
+Marchal;2019;København;Denmark;Modern cuisine;$$;low;1
+Kong Hans Kælder;2019;København;Denmark;Classic French;$$$$;high;1
+Stud!o at The Standard;2019;København;Denmark;Creative;$$$;average;1
+108;2019;København;Denmark;Modern cuisine;$$$;average;1
+Era Ora;2019;København;Denmark;Italian;$$;low;1
+Alouette;2019;København;Denmark;Modern cuisine;$$$;average;1
+Frederiksminde;2019;Præstø;Denmark;Creative;$$$;average;1
+Kadeau Bornholm;2019;Pedersker;Denmark;Creative;$$$$;high;1
+Ask;2019;Helsingfors / Helsinki;Finland;Modern cuisine;$$$;average;1
+Grön;2019;Helsingfors / Helsinki;Finland;Finnish;$$$;average;1
+Demo;2019;Helsingfors / Helsinki;Finland;Modern cuisine;$$$;average;1
+Olo;2019;Helsingfors / Helsinki;Finland;Modern cuisine;$$$;average;1
+Palace;2019;Helsingfors / Helsinki;Finland;Modern cuisine;$$$;average;1
+Ora;2019;Helsingfors / Helsinki;Finland;Modern cuisine;$$$;average;1
+Botrini's;2019;Athína;Greece;Mediterranean;$$$$$;very high;1
+Varoulko Seaside;2019;Athína;Greece;Seafood;$$$$$;very high;1
+Hytra;2019;Athína;Greece;Modern cuisine;$$$$$;very high;1
+Loaf On;2019;Hong Kong;Hong Kong;Cantonese;$$;low;1
+Lei Garden (Kwun Tong);2019;Hong Kong;Hong Kong;Cantonese;$;very low;1
+Tim Ho Wan (Sham Shui Po);2019;Hong Kong;Hong Kong;Dim Sum;$;very low;1
+Lei Garden (Mong Kok);2019;Hong Kong;Hong Kong;Cantonese;$;very low;1
+Ming Court;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;1
+Yat Tung Heen (Jordan);2019;Hong Kong;Hong Kong;Cantonese;$$;low;1
+Fu Ho (Tsim Sha Tsui);2019;Hong Kong;Hong Kong;Cantonese;$$;low;1
+Shang Palace;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;1
+IM Teppanyaki & Wine;2019;Hong Kong;Hong Kong;Teppanyaki;$$;low;1
+Ah Yat Harbour View (Tsim Sha Tsui);2019;Hong Kong;Hong Kong;Cantonese;$$;low;1
+Rech;2019;Hong Kong;Hong Kong;Seafood;$$$$;high;1
+Spring Moon;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;1
+Imperial Treasure Fine Chinese Cuisine;2019;Hong Kong;Hong Kong;Cantonese;$$;low;1
+Sushi Tokami;2019;Hong Kong;Hong Kong;Sushi;$$$$$;very high;1
+Tosca;2019;Hong Kong;Hong Kong;Italian;$$$;average;1
+Épure;2019;;Hong Kong;French;$$$;average;1
+Yee Tung Heen;2019;Hong Kong;Hong Kong;Cantonese;$$;low;1
+Yè Shanghai (Tsim Sha Tsui);2019;Hong Kong;Hong Kong;Shanghainese;$;very low;1
+Ho Hung Kee;2019;Hong Kong;Hong Kong;Noodles and congee;$;very low;1
+Jardin de Jade (Wan Chai);2019;Hong Kong;Hong Kong;Shanghainese;$$;low;1
+Zhejiang Heen;2019;Hong Kong;Hong Kong;Shanghainese;$$;low;1
+Takumi by Daisuke Mori;2019;Hong Kong;Hong Kong;Innovative;$$$$$;very high;1
+Kam's Roast Goose;2019;Hong Kong;Hong Kong;Cantonese Roast Meats;$;very low;1
+Pang's Kitchen;2019;Hong Kong;Hong Kong;Cantonese;$;very low;1
+Xin Rong Ji;2019;Hong Kong;Hong Kong;Taizhou;$$$;average;1
+Qi (Wan Chai);2019;Hong Kong;Hong Kong;Sichuan;$;very low;1
+Man Wah;2019;Hong Kong;Hong Kong;Cantonese;$$$$;high;1
+Summer Palace;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;1
+Octavium;2019;Hong Kong;Hong Kong;Italian;$$$;average;1
+Arbor;2019;;Hong Kong;Innovative;$$$;average;1
+VEA;2019;Hong Kong;Hong Kong;Innovative;$$$$$;very high;1
+Mandarin Grill + Bar;2019;Hong Kong;Hong Kong;European contemporary;$$$$;high;1
+Yat Lok;2019;Hong Kong;Hong Kong;Cantonese Roast Meats;$;very low;1
+Guo Fu Lou;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;1
+Celebrity Cuisine;2019;Hong Kong;Hong Kong;Cantonese;$$;low;1
+Sushi Wadatsumi;2019;Hong Kong;Hong Kong;Sushi;$$$;average;1
+Arcane;2019;Hong Kong;Hong Kong;European contemporary;$$$;average;1
+Duddell's;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;1
+Beefbar;2019;Hong Kong;Hong Kong;Steakhouse;$$;low;1
+New Punjab Club;2019;Hong Kong;Hong Kong;Indian;$$;low;1
+Kaiseki Den by Saotome;2019;Hong Kong;Hong Kong;Japanese;$$$$$;very high;1
+Belon;2019;Hong Kong;Hong Kong;French;$$$;average;1
+Tate;2019;Hong Kong;Hong Kong;Innovative;$$$$$;very high;1
+The Ocean;2019;Hong Kong;Hong Kong;French;$$$$$;very high;1
+Costes Downtown;2019;Budapest;Hungary;Modern cuisine;$$$$;high;1
+Borkonyha Winekitchen;2019;Budapest;Hungary;Modern cuisine;$$$$;high;1
+Stand;2019;Budapest;Hungary;Modern cuisine;$$$;average;1
+Babel;2019;Budapest;Hungary;Modern cuisine;$$$$$;very high;1
+Costes;2019;Budapest;Hungary;Modern cuisine;$$$$$;very high;1
+The Kitchen;2019;Macau;Macau;Steakhouse;$$$;average;1
+Tim's Kitchen;2019;Macau;Macau;Cantonese;$$;low;1
+Wing Lei;2019;Macau;Macau;Cantonese;$$;low;1
+King;2019;Macau;Macau;Cantonese;$;very low;1
+Ying;2019;Macau;Macau;Cantonese;$$;low;1
+Shinji by Kanesaka;2019;Macau;Macau;Sushi;$$$$;high;1
+The Golden Peacock;2019;Macau;Macau;Indian;$;very low;1
+Zi Yat Heen;2019;Macau;Macau;Cantonese;$$;low;1
+8 1/2 Otto e Mezzo - Bombana;2019;Macau;Macau;Italian;$$$;average;1
+Pearl Dragon;2019;Macau;Macau;Cantonese;$$$;average;1
+Lai Heen;2019;Macau;Macau;Cantonese;$$;low;1
+FAGN;2019;Trondheim;Norway;Modern cuisine;$$$$;high;1
+Credo;2019;Trondheim;Norway;Creative;$$$$;high;1
+RE-NAA;2019;Stavanger;Norway;Creative;$$$$;high;1
+Sabi Omakase;2019;Stavanger;Norway;Sushi;$$$$;high;1
+Galt;2019;Oslo;Norway;Modern cuisine;$$$;average;1
+Kontrast;2019;Oslo;Norway;Scandinavian;$$$;average;1
+Statholdergaarden;2019;Oslo;Norway;Classic cuisine;$$$$;high;1
+Del Posto;2019;New York;New York City;Italian;$$$$;high;1
+Le Grill de Joël Robuchon;2019;New York;New York City;French;$$$$;high;1
+L'Appart;2019;New York;New York City;French;$$$$;high;1
+Okuda;2019;New York;New York City;Japanese;$$$$;high;1
+Wallsé;2019;New York;New York City;Austrian;$$$$;high;1
+Jeju Noodle Bar;2019;New York;New York City;Korean;$$;low;1
+Sushi Nakazawa;2019;New York;New York City;Japanese;$$$$;high;1
+Kosaka;2019;New York;New York City;Japanese;$$$$;high;1
+Bâtard;2019;New York;New York City;Contemporary;$$$$;high;1
+Hirohisa;2019;New York;New York City;Japanese;$$$;average;1
+Blue Hill;2019;New York;New York City;American;$$$$;high;1
+ZZ's Clam Bar;2019;New York;New York City;Seafood;$$$$;high;1
+Babbo;2019;New York;New York City;Italian;$$$$;high;1
+Carbone;2019;New York;New York City;Italian;$$$$;high;1
+Le Coucou;2019;New York;New York City;French;$$$;average;1
+Aldea;2019;New York;New York City;Mediterranean;$$$$;high;1
+Cote;2019;New York;New York City;Korean;$$$;average;1
+Bouley at Home;2019;New York;New York City;Contemporary;$$$;average;1
+Gotham Bar and Grill;2019;New York;New York City;American;$$$$;high;1
+Nix;2019;New York;New York City;Vegetarian;$$$;average;1
+Junoon;2019;New York;New York City;Indian;$$$$;high;1
+NoMad;2019;New York;New York City;Contemporary;$$$$;high;1
+The Musket Room;2019;New York;New York City;Contemporary;$$$;average;1
+Uncle Boons;2019;New York;New York City;Thai;$$;low;1
+Noda;2019;New York;New York City;Japanese;$$$$;high;1
+Gramercy Tavern;2019;New York;New York City;Contemporary;$$$$;high;1
+The Clocktower;2019;New York;New York City;Contemporary;$$$;average;1
+Ai Fiori;2019;New York;New York City;Italian;$$$$;high;1
+Casa Mono;2019;New York;New York City;Spanish;$$$;average;1
+Jewel Bako;2019;New York;New York City;Japanese;$$$;average;1
+The River Café;2019;New York;New York City;Contemporary;$$$$;high;1
+Bar Uchū;2019;New York;New York City;Japanese;$$$$;high;1
+Café China;2019;New York;New York City;Chinese;$$;low;1
+Kanoyama;2019;New York;New York City;Japanese;$$$;average;1
+Contra;2019;New York;New York City;Contemporary;$$$$;high;1
+Atomix;2019;New York;New York City;Korean;$$$$;high;1
+Kyo Ya;2019;New York;New York City;Japanese;$$$;average;1
+Kajitsu;2019;New York;New York City;Japanese;$$$;average;1
+Agern;2019;New York;New York City;Scandinavian;$$$$;high;1
+Caviar Russe;2019;New York;New York City;Contemporary;$$$$;high;1
+Tuome;2019;New York;New York City;Fusion;$$;low;1
+Tempura Matsui;2019;New York;New York City;Japanese;$$$$;high;1
+Sushi Yasuda;2019;New York;New York City;Japanese;$$$$;high;1
+Sushi Amane;2019;New York;New York City;Japanese;$$$$;high;1
+Café Boulud;2019;New York;New York City;French;$$$$;high;1
+Claro;2019;New York;New York City;Mexican;$$;low;1
+Satsuki;2019;New York;New York City;Japanese;$$$$;high;1
+Sushi Noz;2019;New York;New York City;Japanese;$$$$;high;1
+Sushi Inoue;2019;New York;New York City;Japanese;$$$$;high;1
+Meadowsweet;2019;New York;New York City;Mediterranean;$$$;average;1
+Casa Enríque;2019;New York;New York City;Mexican;$$;low;1
+Peter Luger;2019;New York;New York City;Steakhouse;$$$$;high;1
+Oxomoco;2019;New York;New York City;Mexican;$$$;average;1
+The Finch;2019;New York;New York City;American;$$$;average;1
+Faro;2019;New York;New York City;American;$$;low;1
+Senses;2019;Warszawa;Poland;Modern cuisine;$$$$$;very high;1
+atelier Amaro;2019;Warszawa;Poland;Modern cuisine;$$$$;high;1
+Olympe;2019;Rio de Janeiro - 22470;Rio de Janeiro;French;$$$$$;very high;1
+Lasai;2019;Rio de Janeiro - 22271;Rio de Janeiro;modern;$$$$$;very high;1
+Oteque;2019;Rio de Janeiro - 22271;Rio de Janeiro;modern;$$$$$;very high;1
+Mee;2019;Rio de Janeiro - 22021;Rio de Janeiro;Asian influences;$$$$$;very high;1
+Cipriani;2019;Rio de Janeiro - 22021;Rio de Janeiro;Italian;$$$$$;very high;1
+Jun Sakamoto;2019;São Paulo - 05413;Sao Paulo;Japanese;$$$$$;very high;1
+Maní;2019;São Paulo - 05415;Sao Paulo;creative;$$$$$;very high;1
+Evvai;2019;São Paulo - 05415;Sao Paulo;modern;$$$$$;very high;1
+Picchi;2019;São Paulo - 01426;Sao Paulo;Italian;$$$$$;very high;1
+Kosushi;2019;São Paulo - 04538;Sao Paulo;Japanese;$$$;average;1
+Ryo Gastronomia;2019;São Paulo - 04531;Sao Paulo;Japanese;$$$$$;very high;1
+Tangará Jean-Georges;2019;São Paulo - 05706;Sao Paulo;modern;$$$$$;very high;1
+Kinoshita;2019;São Paulo - 04509;Sao Paulo;Japanese;$$$$$;very high;1
+Kan Suke;2019;São Paulo - 01401;Sao Paulo;Japanese;$$$$$;very high;1
+Huto;2019;São Paulo - 04080;Sao Paulo;Japanese;$$$$$;very high;1
+Stay;2019;Seoul;South Korea;French contemporary;$$$;average;1
+Lee Jong Kuk 104;2019;Seoul;South Korea;Korean;$$$$;high;1
+Hansikgonggan;2019;Seoul;South Korea;Korean;$$$;average;1
+Dining in Space;2019;Seoul;South Korea;French contemporary;$$$;average;1
+Exquisine;2019;Seoul;South Korea;Innovative;$$$;average;1
+Dosa;2019;Seoul;South Korea;Innovative;$$$;average;1
+Joo Ok;2019;Seoul;South Korea;Korean contemporary;$$$;average;1
+Balwoo Gongyang;2019;Seoul;South Korea;Temple cuisine;$$;low;1
+Muoki;2019;Seoul;South Korea;Innovative;$$$;average;1
+L'Amitié;2019;Seoul;South Korea;French;$$$;average;1
+Yu Yuan;2019;Seoul;South Korea;Chinese;$$$;average;1
+Bicena;2019;Seoul;South Korea;Korean;$$$;average;1
+Mosu;2019;Seoul;South Korea;Innovative;$$$$$;very high;1
+Poom;2019;Seoul;South Korea;Korean;$$$;average;1
+Soigné;2019;Seoul;South Korea;Innovative;$$$;average;1
+Table for Four;2019;Seoul;South Korea;European contemporary;$$$;average;1
+Zero Complex;2019;Seoul;South Korea;Innovative;$$$;average;1
+Jin Jin;2019;Seoul;South Korea;Chinese;$;very low;1
+Gotgan;2019;Seoul;South Korea;Korean;$$$$;high;1
+Hill Street Tai Hwa Pork Noodle;2018;Singapore;Singapore;Street Food;$;very low;1
+Putien (Kitchener Road);2018;Singapore;Singapore;Fujian;$;very low;1
+Chef Kang's;2018;Singapore;Singapore;Cantonese;$$$;average;1
+Garibaldi;2018;Singapore;Singapore;Italian;$;very low;1
+Summer Pavilion;2018;Singapore;Singapore;Cantonese;$$;low;1
+Shinji (Bras Basah Road);2018;Singapore;Singapore;Sushi;$$;low;1
+The Song of India;2018;Singapore;Singapore;Indian;$;very low;1
+Lei Garden;2018;Singapore;Singapore;Cantonese;$;very low;1
+Whitegrass;2018;Singapore;Singapore;Australian;$$;low;1
+Jaan;2018;Singapore;Singapore;French contemporary;$$$;average;1
+Labyrinth;2018;Singapore;Singapore;Innovative;$$;low;1
+Cut;2018;Singapore;Singapore;Steakhouse;$$$;average;1
+Alma;2018;Singapore;Singapore;European contemporary;$;very low;1
+Béni;2018;Singapore;Singapore;French contemporary;$$;low;1
+Crystal Jade Golden Palace;2018;Singapore;Singapore;Chinese;$;very low;1
+Imperial Treasure Fine Teochew Cuisine (Orchard);2018;Singapore;Singapore;Chinese;$;very low;1
+Saint Pierre;2018;Singapore;Singapore;French contemporary;$$;low;1
+Sushi Ichi;2018;Singapore;Singapore;Sushi;$$$;average;1
+Sushi Kimura;2018;Singapore;Singapore;Sushi;$$$$;high;1
+Iggy's;2018;Singapore;Singapore;European contemporary;$$$;average;1
+Braci;2018;Singapore;Singapore;Italian contemporary;$$;low;1
+Jiang-Nan Chun;2018;Singapore;Singapore;Cantonese;$$$;average;1
+Bacchanalia;2018;Singapore;Singapore;Innovative;$$;low;1
+Shinji (Tanglin Road);2018;Singapore;Singapore;Sushi;$$$$;high;1
+Corner House;2018;Singapore;Singapore;Innovative;$$;low;1
+Summer Palace;2018;Singapore;Singapore;Cantonese;$;very low;1
+Cheek by Jowl;2018;Singapore;Singapore;Australian;$;very low;1
+Nouri;2018;Singapore;Singapore;Innovative;$;very low;1
+Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle;2018;Singapore;Singapore;Street Food;$;very low;1
+Burnt Ends;2018;Singapore;Singapore;Barbecue;$$;low;1
+Rhubarb;2018;Singapore;Singapore;French contemporary;$;very low;1
+Meta;2018;Singapore;Singapore;Innovative;$$;low;1
+Ma Cuisine;2018;Singapore;Singapore;French;$;very low;1
+Candlenut;2018;Singapore;Singapore;Peranakan;$;very low;1
+Bhoga;2019;Göteborg;Sweden;Creative;$$$;average;1
+Koka;2019;Göteborg;Sweden;Modern cuisine;$$$;average;1
+28+;2019;Göteborg;Sweden;Modern cuisine;$$$;average;1
+SK Mat & Människor;2019;Göteborg;Sweden;Modern cuisine;$$$;average;1
+Thörnströms Kök;2019;Göteborg;Sweden;Classic cuisine;$$$;average;1
+Upper House;2019;Göteborg;Sweden;Creative;$$$$;high;1
+Agrikultur;2019;Stockholm;Sweden;Modern cuisine;$$$$;high;1
+Sushi Sho;2019;Stockholm;Sweden;Japanese;$$$;average;1
+Volt;2019;Stockholm;Sweden;Creative;$$$;average;1
+Ekstedt;2019;Stockholm;Sweden;Meats and grills;$$$;average;1
+Operakällaren;2019;Stockholm;Sweden;Classic cuisine;$$$$;high;1
+Mathias Dahlgren-Matbaren;2019;Stockholm;Sweden;Modern cuisine;$$;low;1
+Aloë;2019;Stockholm;Sweden;Creative;$$$$;high;1
+PM & Vänner;2019;Växjö;Sweden;Creative;$$$;average;1
+Bloom in the Park;2019;Malmö;Sweden;Creative;$$;low;1
+SAV;2019;Malmö;Sweden;Creative;$$$;average;1
+Golden Formosa;2019;Taipei;Taipei;Taiwanese;$$;low;1
+Danny's Steakhouse;2019;Taipei;Taipei;Steakhouse;$$;low;1
+L'Atelier de Joël Robuchon;2019;Taipei;Taipei;French contemporary;$$$;average;1
+Kitcho;2019;Taipei;Taipei;Sushi;$$$$;high;1
+Tien Hsiang Lo;2019;Taipei;Taipei;Hang Zhou;$$;low;1
+Ya Ge;2019;Taipei;Taipei;Cantonese;$$;low;1
+Da-Wan;2019;Taipei;Taipei;Barbecue;$$$;average;1
+Sushi Nomura;2019;Taipei;Taipei;Sushi;$$$;average;1
+logy;2019;Taipei;Taipei;Asian contemporary;$$$$;high;1
+Ming Fu;2019;Taipei;Taipei;Taiwanese;$$$;average;1
+Ken An Ho;2019;Taipei;Taipei;Japanese;$$$$;high;1
+Sushi Ryu;2019;Taipei;Taipei;Sushi;$$$$;high;1
+MUME;2019;Taipei;Taipei;European contemporary;$$$;average;1
+Impromptu by Paul Lee;2019;Taipei;Taipei;Innovative;$$$;average;1
+Longtail;2019;Taipei;Taipei;Innovative;$$;low;1
+Mountain and Sea House;2019;Taipei;Taipei;Taiwanese;$$;low;1
+Da San Yuan;2019;Taipei;Taipei;Cantonese;$;very low;1
+Tainan Tan Tsu Mien Seafood;2019;Taipei;Taipei;Seafood;$$;low;1
+Suan Thip;2019;Bangkok;Thailand;Thai;$;very low;1
+Upstairs at Mikkeller;2019;Bangkok;Thailand;Innovative;$$$$$;very high;1
+Chim by Siam Wisdom;2019;Bangkok;Thailand;Thai;$$$;average;1
+R-Haan;2019;Bangkok;Thailand;Thai;$$$$;high;1
+Canvas;2019;Bangkok;Thailand;Innovative;$$$$;high;1
+Bo.lan;2019;Bangkok;Thailand;Thai;$$$$$;very high;1
+Sra Bua by Kiin Kiin;2019;Bangkok;Thailand;Thai Contemporary;$$$;average;1
+Elements;2019;Bangkok;Thailand;French contemporary;$$$$;high;1
+Paste;2019;Bangkok;Thailand;Thai;$$$;average;1
+Ginza Sushi ichi;2019;Bangkok;Thailand;Sushi;$$$$;high;1
+Sorn;2019;Bangkok;Thailand;Southern Thai;$$$$$;very high;1
+Savelberg;2019;Bangkok;Thailand;French contemporary;$$$;average;1
+Saneh Jaan;2019;Bangkok;Thailand;Thai;$$;low;1
+Gaa;2019;Bangkok;Thailand;Innovative;$$$$;high;1
+Methavalai Sorndaeng;2019;Bangkok;Thailand;Thai;$$;low;1
+Jay Fai;2019;Bangkok;Thailand;Street Food;$$;low;1
+Nahm;2019;Bangkok;Thailand;Thai;$$$;average;1
+J'AIME by Jean-Michel Lorain;2019;Bangkok;Thailand;French contemporary;$$$;average;1
+Saawaan;2019;Bangkok;Thailand;Thai Contemporary;$$$$;high;1
+Le Du;2019;Bangkok;Thailand;Thai;$$$$;high;1
+Ruean Panya;2019;Bangkok;Thailand;Thai;$$;low;1
+PRU;2019;Phuket;Thailand;Innovative;$$$$$;very high;1
+Blue Duck Tavern;2019;Washington, D.C.;Washington DC;American;$$$;average;1
+Tail Up Goat;2019;Washington, D.C.;Washington DC;Contemporary;$$;low;1
+Komi;2019;Washington, D.C.;Washington DC;Mediterranean;$$$$;high;1
+Sushi Taro;2019;Washington, D.C.;Washington DC;Japanese;$$$$;high;1
+Plume;2019;Washington, D.C.;Washington DC;European;$$$$;high;1
+Siren by RW;2019;Washington, D.C.;Washington DC;Seafood;$$$;average;1
+Bresca;2019;Washington, D.C.;Washington DC;Contemporary;$$;low;1
+The Dabney;2019;Washington, D.C.;Washington DC;American;$$;low;1
+Métier;2019;Washington, D.C.;Washington DC;Contemporary;$$$$;high;1
+Kinship;2019;Washington, D.C.;Washington DC;Contemporary;$$$;average;1
+Fiola;2019;Washington, D.C.;Washington DC;Italian;$$$$;high;1
+Masseria;2019;Washington, D.C.;Washington DC;Italian;$$$;average;1
+Rose's Luxury;2019;Washington, D.C.;Washington DC;Contemporary;$$;low;1
+Feng Wei Ju;2019;Macau;Macau;Hunanese and Sichuan;$;very low;2
+Shisen Hanten;2018;Singapore;Singapore;Chinese;$;very low;2
+Sun Tung Lok;2019;Hong Kong;Hong Kong;Cantonese;$$;low;2
+Forum;2019;Hong Kong;Hong Kong;Cantonese;$$;low;2
+Ying Jee Club;2019;Hong Kong;Hong Kong;Cantonese;$$;low;2
+Golden Flower;2019;Macau;Macau;Chinese;$$;low;2
+Mizumi (Macau);2019;Macau;Macau;Japanese;$$;low;2
+The Guest House;2019;Taipei;Taipei;Sichuan-Huai Yang;$$;low;2
+Henne Kirkeby Kro;2019;Henne;Denmark;Classic cuisine;$$$;average;2
+Yan Toh Heen;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;2
+Tin Lung Heen;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;2
+Écriture;2019;Hong Kong;Hong Kong;French contemporary;$$$;average;2
+The Tasting Room;2019;Macau;Macau;French contemporary;$$$;average;2
+Jungsik;2019;Seoul;South Korea;Korean contemporary;$$$;average;2
+Kwonsooksoo;2019;Seoul;South Korea;Korean;$$$;average;2
+Mingles;2019;Seoul;South Korea;Korean contemporary;$$$;average;2
+Alla Prima;2019;Seoul;South Korea;Innovative;$$$;average;2
+Les Amis;2018;Singapore;Singapore;French;$$$;average;2
+RAW;2019;Taipei;Taipei;Innovative;$$$;average;2
+Taïrroir;2019;Taipei;Taipei;Innovative;$$$;average;2
+Baumé;2019;South San Francisco;California;Contemporary;$$$$;high;2
+Commis;2019;San Francisco;California;Contemporary;$$$$;high;2
+Californios;2019;San Francisco;California;Mexican;$$$$;high;2
+Lazy Bear;2019;San Francisco;California;Contemporary;$$$$;high;2
+Saison;2019;San Francisco;California;Californian;$$$$;high;2
+Campton Place;2019;San Francisco;California;Indian;$$$$;high;2
+Coi;2019;San Francisco;California;Contemporary;$$$$;high;2
+Acquerello;2019;San Francisco;California;Italian;$$$$;high;2
+Urasawa;2019;Los Angeles;California;Japanese;$$$$;high;2
+Sushi Ginza Onodera;2019;Los Angeles;California;Japanese;$$$$;high;2
+Somni;2019;Los Angeles;California;Contemporary;$$$$;high;2
+Providence;2019;Los Angeles;California;Seafood;$$$$;high;2
+n/naka;2019;Los Angeles;California;Contemporary;$$$$;high;2
+Vespertine;2019;Los Angeles;California;Contemporary;$$$$;high;2
+Smyth;2019;Chicago;Chicago;Contemporary;$$$$;high;2
+Oriole;2019;Chicago;Chicago;Contemporary;$$$$;high;2
+Acadia;2019;Chicago;Chicago;Contemporary;$$$$;high;2
+KOKS;2019;Leynar;Denmark;Creative;$$$$;high;2
+a‚o‚c;2019;København;Denmark;Modern cuisine;$$$$;high;2
+noma;2019;København;Denmark;Creative;$$$$;high;2
+Kadeau Copenhagen;2019;København;Denmark;Modern cuisine;$$$$;high;2
+Pierre;2019;Hong Kong;Hong Kong;French contemporary;$$$$;high;2
+Amber;2019;Hong Kong;Hong Kong;French contemporary;$$$$;high;2
+Kashiwaya;2019;Hong Kong;Hong Kong;Japanese;$$$$;high;2
+L'Atelier de Joël Robuchon;2019;New York;New York City;French;$$$$;high;2
+Jungsik;2019;New York;New York City;Korean;$$$$;high;2
+Atera;2019;New York;New York City;Contemporary;$$$$;high;2
+Jean-Georges;2019;New York;New York City;Contemporary;$$$$;high;2
+Marea;2019;New York;New York City;Seafood;$$$$;high;2
+Gabriel Kreuther;2019;New York;New York City;Contemporary;$$$$;high;2
+Ichimura at Uchū;2019;New York;New York City;Japanese;$$$$;high;2
+Sushi Ginza Onodera;2019;New York;New York City;Japanese;$$$$;high;2
+Ko;2019;New York;New York City;Contemporary;$$$$;high;2
+The Modern;2019;New York;New York City;Contemporary;$$$$;high;2
+Aquavit;2019;New York;New York City;Scandinavian;$$$$;high;2
+Daniel;2019;New York;New York City;French;$$$$;high;2
+Aska;2019;New York;New York City;Scandinavian;$$$$;high;2
+Blanca;2019;New York;New York City;Contemporary;$$$$;high;2
+Odette;2018;Singapore;Singapore;French contemporary;$$$$;high;2
+Fäviken Magasinet;2019;Järpen;Sweden;Creative;$$$$;high;2
+Gastrologik;2019;Stockholm;Sweden;Creative;$$$$;high;2
+Oaxen Krog;2019;Stockholm;Sweden;Creative;$$$$;high;2
+Vollmers;2019;Malmö;Sweden;Creative;$$$$;high;2
+Daniel Berlin;2019;Skåne-Tranås;Sweden;Creative;$$$$;high;2
+Shoun RyuGin;2019;Taipei;Taipei;Japanese contemporary;$$$$;high;2
+Sushi Amamoto;2019;Taipei;Taipei;Sushi;$$$$;high;2
+Sühring;2019;Bangkok;Thailand;European contemporary;$$$$;high;2
+Le Normandie;2019;Bangkok;Thailand;French contemporary;$$$$;high;2
+minibar;2019;Washington, D.C.;Washington DC;Contemporary;$$$$;high;2
+Pineapple and Pearls;2019;Washington, D.C.;Washington DC;Contemporary;$$$$;high;2
+SENNS.Restaurant;2019;Salzburg;Austria;Creative;$$$$$;very high;2
+Ikarus;2019;Salzburg;Austria;Creative;$$$$$;very high;2
+Mraz & Sohn;2019;Wien;Austria;Creative;$$$$$;very high;2
+Konstantin Filippou;2019;Wien;Austria;Modern cuisine;$$$$$;very high;2
+Silvio Nickol Gourmet Restaurant;2019;Wien;Austria;Modern cuisine;$$$$$;very high;2
+Steirereck im Stadtpark;2019;Wien;Austria;Creative;$$$$$;very high;2
+Spondi;2019;Athína;Greece;French;$$$$$;very high;2
+Tenku RyuGin;2019;Hong Kong;Hong Kong;Japanese;$$$$$;very high;2
+Sushi Saito;2019;Hong Kong;Hong Kong;Sushi;$$$$$;very high;2
+Ta Vie;2019;Hong Kong;Hong Kong;Innovative;$$$$$;very high;2
+Onyx;2019;Budapest;Hungary;Modern cuisine;$$$$$;very high;2
+Alain Ducasse at Morpheus;2019;Macau;Macau;French contemporary;$$$$$;very high;2
+Oro;2019;Rio de Janeiro - 22441;Rio de Janeiro;creative;$$$$$;very high;2
+Tuju;2019;São Paulo - 05416;Sao Paulo;creative;$$$$$;very high;2
+D.O.M.;2019;São Paulo - 01411;Sao Paulo;creative;$$$$$;very high;2
+Kojima;2019;Seoul;South Korea;Sushi;$$$$$;very high;2
+Waku Ghin;2018;Singapore;Singapore;Japanese contemporary;$$$$$;very high;2
+Shoukouwa;2018;Singapore;Singapore;Sushi;$$$$$;very high;2
+Gaggan;2019;Bangkok;Thailand;Innovative;$$$$$;very high;2
+Mezzaluna;2019;Bangkok;Thailand;Innovative;$$$$$;very high;2
+Jade Dragon;2019;Macau;Macau;Cantonese;$$;low;3
+Le Palais;2019;Taipei;Taipei;Cantonese;$$;low;3
+T'ang Court;2019;Hong Kong;Hong Kong;Cantonese;$$$;average;3
+The Eight;2019;Macau;Macau;Chinese;$$$;average;3
+Manresa;2019;South San Francisco;California;Contemporary;$$$$;high;3
+Benu;2019;San Francisco;California;Asian;$$$$;high;3
+Quince;2019;San Francisco;California;Contemporary;$$$$;high;3
+Atelier Crenn;2019;San Francisco;California;Contemporary;$$$$;high;3
+The French Laundry;2019;San Francisco;California;Contemporary;$$$$;high;3
+The Restaurant at Meadowood;2019;San Francisco;California;Contemporary;$$$$;high;3
+SingleThread;2019;San Francisco;California;Contemporary;$$$$;high;3
+Alinea;2019;Chicago;Chicago;Contemporary;$$$$;high;3
+Geranium;2019;København;Denmark;Creative;$$$$;high;3
+Lung King Heen;2019;Hong Kong;Hong Kong;Cantonese;$$$$;high;3
+Caprice;2019;Hong Kong;Hong Kong;French;$$$$;high;3
+8½ Otto e Mezzo - Bombana;2019;Hong Kong;Hong Kong;Italian;$$$$;high;3
+L'Atelier de Joël Robuchon;2019;Hong Kong;Hong Kong;French contemporary;$$$$;high;3
+Robuchon au Dôme;2019;Macau;Macau;French contemporary;$$$$;high;3
+Maaemo;2019;Oslo;Norway;Modern cuisine;$$$$;high;3
+Masa;2019;New York;New York City;Japanese;$$$$;high;3
+Per Se;2019;New York;New York City;Contemporary;$$$$;high;3
+Le Bernardin;2019;New York;New York City;Seafood;$$$$;high;3
+Eleven Madison Park;2019;New York;New York City;Contemporary;$$$$;high;3
+Chef's Table at Brooklyn Fare;2019;New York;New York City;Contemporary;$$$$;high;3
+La Yeon;2019;Seoul;South Korea;Korean;$$$$;high;3
+Frantzén;2019;Stockholm;Sweden;Modern cuisine;$$$$;high;3
+The Inn at Little Washington;2019;Washington, D.C.;Washington DC;American;$$$$;high;3
+Amador;2019;Wien;Austria;Creative;$$$$$;very high;3
+Bo Innovation;2019;Hong Kong;Hong Kong;Innovative;$$$$$;very high;3
+Sushi Shikon;2019;Hong Kong;Hong Kong;Sushi;$$$$$;very high;3
+Gaon;2019;Seoul;South Korea;Korean;$$$$$;very high;3
